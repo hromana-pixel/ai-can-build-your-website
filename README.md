@@ -4,6 +4,8 @@ Practical templates and checklists for people building websites with AI coding a
 
 These resources accompany *AI Can Build Your Website.* by Henrique Romana.
 
+[View the book on Amazon](https://www.amazon.com/dp/B0HKST1NS1)
+
 ## What this repository is
 
 This is the practical toolkit accompanying the book. It helps you define the work, protect settled decisions, review what an agent changes and publish deliberately.
@@ -63,7 +65,7 @@ The [resources list](resources.md) points to a small set of authoritative refere
 *AI Can Build Your Website.*  
 Henrique Romana
 
-The full book will be available from Amazon: **[Amazon link — add after publication]**
+The book is now available on Amazon: [View on Amazon](https://www.amazon.com/dp/B0HKST1NS1).
 
 ![Cover of AI Can Build Your Website. by Henrique Romana](assets/ai-can-build-your-website-cover.jpg)
 
